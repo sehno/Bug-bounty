@@ -39,6 +39,7 @@ This recon process is from [0xpatrick subdomain enumeration workflow](https://0x
 
 ### Scanning  
 
+- [ ] Acunetix 
 - [ ] Arachni Scan  
 - [ ] Owasp ZAp Scan  
 - [ ] Burp Spider  
