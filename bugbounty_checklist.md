@@ -32,7 +32,7 @@ This recon process is from [0xpatrick subdomain enumeration workflow](https://0x
 - [ ] Use commonspeak2 list
 - [ ] Run massdns
 - [ ] Run altdns
-- [ ] Run massdns
+- [ ] Run recon-ng
 
 
 ## <a name="Single_domain">Single Domain</a>  
