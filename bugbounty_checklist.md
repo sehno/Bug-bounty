@@ -24,14 +24,11 @@ Happy hunting !
 
 
 ## <a name="Recon_on_wildcard_domain">Recon on wildcard domain</a>  
-This recon process is from [0xpatrick subdomain enumeration workflow](https://0xpatrik.com/subdomain-enumeration-2019/)
 
 - [ ] Run Amass
 - [ ] Run Subfinder
-- [ ] Run Rapid7 FDNS
-- [ ] Use commonspeak2 list
-- [ ] Run massdns
-- [ ] Run altdns
+- [ ] Run Assetfinder
+- [ ] Run dnsgen
 - [ ] Run massdns
 
 
@@ -39,11 +36,9 @@ This recon process is from [0xpatrick subdomain enumeration workflow](https://0x
 
 ### Scanning  
 
-- [ ] Arachni Scan  
-- [ ] Owasp ZAp Scan  
-- [ ] Burp Spider  
-- [ ] Burp Scanning   
-- [ ] Wayback machine  
+- [ ] Nmap scan   
+- [ ] Burp crawler   
+- [ ] hakrawler/gau/paramspider  
 - [ ] Linkfinder  
 - [ ] Url with Android application   
 
@@ -231,6 +226,5 @@ This recon process is from [0xpatrick subdomain enumeration workflow](https://0x
 
 Source:  
 [OWASP](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
-[0xpatrick subdomain enumeration workflow](https://0xpatrik.com/subdomain-enumeration-2019/)
 
 
