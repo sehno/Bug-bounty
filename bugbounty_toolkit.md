@@ -30,3 +30,11 @@ If you have questions or suggestions, don't hesitate to contact me on twitter (h
 - [github](https://github.com)
 
 ***
+
+## XSS  
+
+- [xsshunter](https://xsshunter.com)
+- [xsscrapy](https://github.com/DanMcInerney/xsscrapy)
+- [dalfox](https://github.com/hahwul/dalfox)
+
+***
