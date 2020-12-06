@@ -29,12 +29,13 @@ If you have questions or suggestions, don't hesitate to contact me on twitter (h
 - [pastebin](https://pastebin.com/)
 - [github](https://github.com)
 
-***
-
 ## XSS  
 
 - [xsshunter](https://xsshunter.com)
 - [xsscrapy](https://github.com/DanMcInerney/xsscrapy)
 - [dalfox](https://github.com/hahwul/dalfox)
 
-***
+## SQL Injection
+- [sqlmap](https://github.com/sqlmapproject/sqlmap)
+- [waybacksqliscanner](https://github.com/ghostlulzhacks/waybackSqliScanner)
+
