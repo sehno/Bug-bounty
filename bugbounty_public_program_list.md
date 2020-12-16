@@ -5,7 +5,7 @@ If you have questions or suggestions, don't hesitate to contact me on twitter (h
 ***
 
 ## Resources  
-https://github.com/arkadiyt/bounty-targets-data/tree/master/data
+https://github.com/arkadiyt/bounty-targets-data/tree/master/data  
 https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
 
 
