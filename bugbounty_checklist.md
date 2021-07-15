@@ -27,10 +27,11 @@ Happy hunting !
 
 - [ ] Run amass  
 - [ ] Run subfinder  
-- [ ] Run assetfinder  
+- [ ] Run assetfinder 
+- [ ] Run Sublist3r
 - [ ] Run dnsgen  
 - [ ] Run massdns  
-- [ ] Use httprobe  
+- [ ] Use httprobe/httpx 
 - [ ] Run aquatone (screenshot for alive host)  
 
 
@@ -38,9 +39,9 @@ Happy hunting !
 
 ### Scanning  
 
-- [ ] Nmap scan   
+- [ ] Nmap scan/RustScan   
 - [ ] Burp crawler   
-- [ ] ffuf (directory and file fuzzing)
+- [ ] ffuf/dirsearch/gobuster (directory and file fuzzing)
 - [ ] hakrawler/gau/paramspider  
 - [ ] Linkfinder  
 - [ ] Url with Android application   
@@ -51,7 +52,7 @@ Happy hunting !
 - [ ] Censys  
 - [ ] Google dorks  
 - [ ] Pastebin  
-- [ ] Github  
+- [ ] Github dorks
 - [ ] OSINT     
 
 ### <a name="Information">Information Gathering</a>
