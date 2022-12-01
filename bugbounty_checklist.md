@@ -227,7 +227,3 @@ Happy hunting !
 - [ ] Check CORS implementation  
 - [ ] Check Offline Web Application  
 
-Source:  
-[OWASP](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
-
-
